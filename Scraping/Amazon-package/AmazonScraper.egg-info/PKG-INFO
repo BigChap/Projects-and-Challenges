@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: AmazonScraper
+Version: 0.1
+Summary: Scraper for Amazon
+Home-page: UNKNOWN
+Author: dawa
+Author-email: dawa_@hotmail.fr
+License: MIT
+Description: Some description of my package.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
