@@ -1,9 +1,7 @@
 ## Installation :
-=============
 pip install -e "package path"
 
 ## Class Usage :
-==================
 SuperScraper :
 Super Class to get proxies, user agents, start Selenium driver with proxies, catch exceptions and get page and contains the global docstring
 
