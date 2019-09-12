@@ -1,0 +1,135 @@
+2019-09-12 14:54:54;INFO;Backup has 1 rows | Number urls left: 0
+2019-09-12 14:54:54;INFO;Creating proxy pool
+2019-09-12 14:54:55;INFO;Proxies loaded: 294
+2019-09-12 14:54:55;INFO;Proxy: 103.102.139.186:39184
+2019-09-12 14:54:55;INFO;UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+2019-09-12 15:05:52;INFO;No Backup to load
+2019-09-12 15:06:43;INFO;No Backup to load
+2019-09-12 15:06:44;INFO;Creating proxy pool
+2019-09-12 15:06:45;INFO;Proxies loaded: 300
+2019-09-12 15:06:45;INFO;Proxy: 103.124.104.4:80
+2019-09-12 15:06:45;INFO;"UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36"
+2019-09-12 15:06:58;INFO;Getting page: https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A%2116225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&_encoding=UTF8&qid=1568105290&rnid=1063306&ref=sr_nr_n_1
+2019-09-12 15:07:10;EXCEPTION;Page Inaccessible
+2019-09-12 15:07:13;INFO;Kill task
+2019-09-12 15:07:13;INFO;Proxy: 167.71.161.102:8080
+2019-09-12 15:07:13;INFO;"UA: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+2019-09-12 15:07:15;INFO;Getting page: https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A%2116225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&_encoding=UTF8&qid=1568105290&rnid=1063306&ref=sr_nr_n_1
+2019-09-12 15:07:19;INFO;Waiting for elements
+2019-09-12 15:07:19;INFO;Page successfully loaded in 25.6s
+2019-09-12 15:07:19;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A%2116225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&_encoding=UTF8&qid=1568105290&rnid=1063306&ref=sr_nr_n_1
+2019-09-12 15:07:21;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=2&_encoding=UTF8&qid=1568293635&rnid=1063306&ref=sr_pg_1
+2019-09-12 15:07:25;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=3&_encoding=UTF8&qid=1568293639&rnid=1063306&ref=sr_pg_2
+2019-09-12 15:07:29;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=4&_encoding=UTF8&qid=1568293642&rnid=1063306&ref=sr_pg_3
+2019-09-12 15:07:32;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=5&_encoding=UTF8&qid=1568293645&rnid=1063306&ref=sr_pg_4
+2019-09-12 15:07:35;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=6&_encoding=UTF8&qid=1568293650&rnid=1063306&ref=sr_pg_5
+2019-09-12 15:08:11;INFO;Backup has 97 rows | Number urls left: 11
+2019-09-12 15:08:16;INFO;Creating proxy pool
+2019-09-12 15:08:16;INFO;Proxies loaded: 300
+2019-09-12 15:08:16;INFO;Proxy: 201.151.79.30:8080
+2019-09-12 15:08:16;INFO;"UA: Mozilla/5.0 (Linux; Android 7.1; Mi A1 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36"
+2019-09-12 15:08:18;INFO;Getting page: https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=6&_encoding=UTF8&qid=1568293650&rnid=1063306&ref=sr_pg_5
+2019-09-12 15:08:40;EXCEPTION;Aucune Connexion
+2019-09-12 15:08:43;INFO;Kill task
+2019-09-12 15:08:43;INFO;Proxy: 177.72.72.217:54468
+2019-09-12 15:08:43;INFO;"UA: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Mobile Safari/537.36"
+2019-09-12 15:08:44;INFO;Getting page: https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=6&_encoding=UTF8&qid=1568293650&rnid=1063306&ref=sr_pg_5
+2019-09-12 15:08:47;INFO;Waiting for elements
+2019-09-12 15:08:59;INFO;Page successfully loaded in 40.9s
+2019-09-12 15:08:59;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=6&_encoding=UTF8&qid=1568293650&rnid=1063306&ref=sr_pg_5
+2019-09-12 15:09:04;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=7&_encoding=UTF8&qid=1568293727&rnid=1063306&ref=is_pn_6
+2019-09-12 15:09:07;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=8&_encoding=UTF8&qid=1568293740&rnid=1063306&ref=is_pn_7
+2019-09-12 15:09:11;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=9&_encoding=UTF8&qid=1568293744&rnid=1063306&ref=is_pn_8
+2019-09-12 15:09:15;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=10&_encoding=UTF8&qid=1568293748&rnid=1063306&ref=is_pn_9
+2019-09-12 15:09:18;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=11&_encoding=UTF8&qid=1568293752&rnid=1063306&ref=is_pn_10
+2019-09-12 15:09:23;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=12&_encoding=UTF8&qid=1568293755&rnid=1063306&ref=is_pn_11
+2019-09-12 15:09:28;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=13&_encoding=UTF8&qid=1568293759&rnid=1063306&ref=is_pn_12
+2019-09-12 15:09:32;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=14&_encoding=UTF8&qid=1568293764&rnid=1063306&ref=is_pn_13
+2019-09-12 15:09:35;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=15&_encoding=UTF8&qid=1568293768&rnid=1063306&ref=is_pn_14
+2019-09-12 15:09:38;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=16&_encoding=UTF8&qid=1568293773&rnid=1063306&ref=is_pn_15
+2019-09-12 15:09:42;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=17&_encoding=UTF8&qid=1568293776&rnid=1063306&ref=is_pn_16
+2019-09-12 15:09:48;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=18&_encoding=UTF8&qid=1568293778&rnid=1063306&ref=is_pn_17
+2019-09-12 15:09:53;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=19&_encoding=UTF8&qid=1568293782&rnid=1063306&ref=is_pn_18
+2019-09-12 15:09:58;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=20&_encoding=UTF8&qid=1568293789&rnid=1063306&ref=is_pn_19
+2019-09-12 15:10:02;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=21&_encoding=UTF8&qid=1568293794&rnid=1063306&ref=is_pn_20
+2019-09-12 15:10:04;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=22&_encoding=UTF8&qid=1568293798&rnid=1063306&ref=is_pn_21
+2019-09-12 15:10:10;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=23&_encoding=UTF8&qid=1568293803&rnid=1063306&ref=is_pn_22
+2019-09-12 15:10:14;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=24&_encoding=UTF8&qid=1568293806&rnid=1063306&ref=is_pn_23
+2019-09-12 15:10:16;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=25&_encoding=UTF8&qid=1568293810&rnid=1063306&ref=is_pn_24
+2019-09-12 15:10:21;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=26&_encoding=UTF8&qid=1568293814&rnid=1063306&ref=is_pn_25
+2019-09-12 15:10:24;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=27&_encoding=UTF8&qid=1568293817&rnid=1063306&ref=is_pn_26
+2019-09-12 15:10:26;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=28&_encoding=UTF8&qid=1568293821&rnid=1063306&ref=is_pn_27
+2019-09-12 15:10:31;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=29&_encoding=UTF8&qid=1568293824&rnid=1063306&ref=is_pn_28
+2019-09-12 15:10:36;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=30&_encoding=UTF8&qid=1568293828&rnid=1063306&ref=is_pn_29
+2019-09-12 15:10:39;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=31&_encoding=UTF8&qid=1568293832&rnid=1063306&ref=is_pn_30
+2019-09-12 15:10:42;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=32&_encoding=UTF8&qid=1568293836&rnid=1063306&ref=is_pn_31
+2019-09-12 15:10:46;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=33&_encoding=UTF8&qid=1568293840&rnid=1063306&ref=is_pn_32
+2019-09-12 15:10:50;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=34&_encoding=UTF8&qid=1568293844&rnid=1063306&ref=is_pn_33
+2019-09-12 15:10:52;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=35&_encoding=UTF8&qid=1568293847&rnid=1063306&ref=is_pn_34
+2019-09-12 15:10:57;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=36&_encoding=UTF8&qid=1568293850&rnid=1063306&ref=is_pn_35
+2019-09-12 15:11:01;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=37&_encoding=UTF8&qid=1568293854&rnid=1063306&ref=is_pn_36
+2019-09-12 15:11:04;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=38&_encoding=UTF8&qid=1568293858&rnid=1063306&ref=is_pn_37
+2019-09-12 15:11:22;EXCEPTION;"Message: Time Out for URL
+"
+2019-09-12 15:11:26;INFO;Kill task
+2019-09-12 15:11:26;INFO;Proxy: 164.68.98.170:3128
+2019-09-12 15:11:26;INFO;"UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+2019-09-12 15:11:27;INFO;Getting page: https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=38&_encoding=UTF8&qid=1568293858&rnid=1063306&ref=is_pn_37
+2019-09-12 15:11:31;EXCEPTION;Page Inaccessible
+2019-09-12 15:11:34;INFO;Kill task
+2019-09-12 15:11:34;INFO;Proxy: 77.222.152.137:48095
+2019-09-12 15:11:34;INFO;"UA: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"
+2019-09-12 15:11:35;INFO;Getting page: https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=38&_encoding=UTF8&qid=1568293858&rnid=1063306&ref=is_pn_37
+2019-09-12 15:11:45;INFO;Waiting for elements
+2019-09-12 15:12:00;EXCEPTION;"Message: Time Out for elements
+"
+2019-09-12 15:12:04;INFO;Kill task
+2019-09-12 15:12:04;INFO;Proxy: 125.26.7.124:61642
+2019-09-12 15:12:04;INFO;"UA: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36"
+2019-09-12 15:12:05;INFO;Getting page: https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=38&_encoding=UTF8&qid=1568293858&rnid=1063306&ref=is_pn_37
+2019-09-12 15:12:09;INFO;Waiting for elements
+2019-09-12 15:12:19;INFO;Page successfully loaded in 240.5s
+2019-09-12 15:12:19;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=38&_encoding=UTF8&qid=1568293858&rnid=1063306&ref=is_pn_37
+2019-09-12 15:12:23;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=39&_encoding=UTF8&qid=1568293928&rnid=1063306&ref=sr_pg_38
+2019-09-12 15:12:27;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=40&_encoding=UTF8&qid=1568293940&rnid=1063306&ref=sr_pg_39
+2019-09-12 15:12:31;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=41&_encoding=UTF8&qid=1568293944&rnid=1063306&ref=sr_pg_40
+2019-09-12 15:12:36;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=42&_encoding=UTF8&qid=1568293949&rnid=1063306&ref=sr_pg_41
+2019-09-12 15:12:42;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=43&_encoding=UTF8&qid=1568293953&rnid=1063306&ref=sr_pg_42
+2019-09-12 15:12:46;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=44&_encoding=UTF8&qid=1568293958&rnid=1063306&ref=sr_pg_43
+2019-09-12 15:12:51;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=45&_encoding=UTF8&qid=1568293963&rnid=1063306&ref=sr_pg_44
+2019-09-12 15:12:56;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=46&_encoding=UTF8&qid=1568293968&rnid=1063306&ref=sr_pg_45
+2019-09-12 15:12:59;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=47&_encoding=UTF8&qid=1568293973&rnid=1063306&ref=sr_pg_46
+2019-09-12 15:13:03;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=48&_encoding=UTF8&qid=1568293977&rnid=1063306&ref=sr_pg_47
+2019-09-12 15:13:05;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=49&_encoding=UTF8&qid=1568293980&rnid=1063306&ref=sr_pg_48
+2019-09-12 15:13:09;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=50&_encoding=UTF8&qid=1568293984&rnid=1063306&ref=sr_pg_49
+2019-09-12 15:13:13;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=51&_encoding=UTF8&qid=1568293986&rnid=1063306&ref=sr_pg_50
+2019-09-12 15:13:16;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=52&_encoding=UTF8&qid=1568293989&rnid=1063306&ref=sr_pg_51
+2019-09-12 15:13:21;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=53&_encoding=UTF8&qid=1568293994&rnid=1063306&ref=sr_pg_52
+2019-09-12 15:13:25;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=54&_encoding=UTF8&qid=1568293997&rnid=1063306&ref=sr_pg_53
+2019-09-12 15:13:27;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=55&_encoding=UTF8&qid=1568294001&rnid=1063306&ref=sr_pg_54
+2019-09-12 15:13:32;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=56&_encoding=UTF8&qid=1568294006&rnid=1063306&ref=sr_pg_55
+2019-09-12 15:13:36;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=57&_encoding=UTF8&qid=1568294009&rnid=1063306&ref=sr_pg_56
+2019-09-12 15:13:40;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=58&_encoding=UTF8&qid=1568294012&rnid=1063306&ref=sr_pg_57
+2019-09-12 15:13:44;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=59&_encoding=UTF8&qid=1568294017&rnid=1063306&ref=sr_pg_58
+2019-09-12 15:13:47;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=60&_encoding=UTF8&qid=1568294021&rnid=1063306&ref=sr_pg_59
+2019-09-12 15:13:52;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=61&_encoding=UTF8&qid=1568294025&rnid=1063306&ref=sr_pg_60
+2019-09-12 15:13:54;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=62&_encoding=UTF8&qid=1568294028&rnid=1063306&ref=sr_pg_61
+2019-09-12 15:13:58;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=63&_encoding=UTF8&qid=1568294032&rnid=1063306&ref=sr_pg_62
+2019-09-12 15:14:02;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=64&_encoding=UTF8&qid=1568294035&rnid=1063306&ref=sr_pg_63
+2019-09-12 15:14:05;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=65&_encoding=UTF8&qid=1568294039&rnid=1063306&ref=sr_pg_64
+2019-09-12 15:14:08;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=66&_encoding=UTF8&qid=1568294042&rnid=1063306&ref=sr_pg_65
+2019-09-12 15:14:13;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=67&_encoding=UTF8&qid=1568294046&rnid=1063306&ref=sr_pg_66
+2019-09-12 15:14:17;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=68&_encoding=UTF8&qid=1568294049&rnid=1063306&ref=sr_pg_67
+2019-09-12 15:14:20;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=69&_encoding=UTF8&qid=1568294054&rnid=1063306&ref=sr_pg_68
+2019-09-12 15:14:24;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=70&_encoding=UTF8&qid=1568294058&rnid=1063306&ref=sr_pg_69
+2019-09-12 15:14:27;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=71&_encoding=UTF8&qid=1568294060&rnid=1063306&ref=sr_pg_70
+2019-09-12 15:14:31;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=72&_encoding=UTF8&qid=1568294065&rnid=1063306&ref=sr_pg_71
+2019-09-12 15:14:35;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=73&_encoding=UTF8&qid=1568294067&rnid=1063306&ref=sr_pg_72
+2019-09-12 15:14:37;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=74&_encoding=UTF8&qid=1568294072&rnid=1063306&ref=sr_pg_73
+2019-09-12 15:14:40;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=75&_encoding=UTF8&qid=1568294075&rnid=1063306&ref=sr_pg_74
+2019-09-12 15:14:45;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=76&_encoding=UTF8&qid=1568294078&rnid=1063306&ref=sr_pg_75
+2019-09-12 15:14:49;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=77&_encoding=UTF8&qid=1568294081&rnid=1063306&ref=sr_pg_76
+2019-09-12 15:14:52;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=78&_encoding=UTF8&qid=1568294086&rnid=1063306&ref=sr_pg_77
+2019-09-12 15:14:54;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=79&_encoding=UTF8&qid=1568294090&rnid=1063306&ref=sr_pg_78
+2019-09-12 15:14:57;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=80&_encoding=UTF8&qid=1568294092&rnid=1063306&ref=sr_pg_79
+2019-09-12 15:14:59;INFO;Links extracted | page : https://www.amazon.com/s?i=kitchen-intl-ship&bbn=16225011011&rh=n%3A16225011011%2Cn%3A1063306%2Cn%3A1063308&s=price-desc-rank&lo=list&dc&page=81&_encoding=UTF8&qid=1568294095&rnid=1063306&ref=sr_pg_80

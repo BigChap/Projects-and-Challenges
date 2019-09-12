@@ -71,6 +71,7 @@ class SuperScraper:
     caps = DesiredCapabilities().CHROME
     chrome_options.add_argument('--profile-directory=Default')
     chrome_options.add_argument("--start-maximized")
+    chrome_options.binary_location = r"C:\Program Files (x86)\Google\Chrome Beta\Application\chrome.exe"
     caps["pageLoadStrategy"] = "none"
     log = pd.DataFrame(columns=['TIME', 'TYPE', 'MESSAGE'])
     

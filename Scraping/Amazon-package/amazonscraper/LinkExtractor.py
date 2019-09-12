@@ -81,7 +81,7 @@ class LinkExtractor(SuperScraper):
             backup_cat_name = backup.Category_Name.iloc[-1]
             copie = self.category_links.copy()
             for k,v in copie.items():
-                if k==backup_cat_name:
+                if (k==backup_cat_name or backup_cat_name is np.NaN):
                     break
                 else: del self.category_links[k]
             # cat_list = list(copie.values())
@@ -97,9 +97,9 @@ class LinkExtractor(SuperScraper):
             backup_page = False
             
         driver, proxy_pool = self._start_driver()
-            
-        while len(self.category_links) > 0:
-            with tqdm(total=len(self.category_links)) as progress_bar:
+        cat_lenght = len(self.category_links)
+        while cat_lenght > 0:
+            with tqdm(total=cat_lenght) as progress_bar:
                 # urls = iter(cat_list)
                 copie = self.category_links.copy()
                 for key, url in copie.items():
@@ -124,6 +124,7 @@ class LinkExtractor(SuperScraper):
                                 self._nxt_page(driver)
 
                             del self.category_links[key]
+                            cat_lenght-=1
                             progress_bar.update(1)
 
                         # except HoneyPot as e:
