@@ -9,6 +9,7 @@ Ainsi que quelques notebook ou python de projets perso/challenges.
 - LinkedIn : https://www.linkedin.com/in/schapeland/
 - Malt : https://www.malt.fr/profile/sebastienchapeland
 
+ ![ScreenShot](./pic/wordcloud.png?raw=true)
 
  ![ScreenShot](./pic/Entreprises.png?raw=true)
 
