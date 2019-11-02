@@ -1,7 +1,9 @@
 # Portfolio
 
-Vous trouverez dans ce repo des screenshot extraits de missions ou de projets persos.
-Ainsi que quelques notebook ou python de projets perso/challenges.
+Vous trouverez dans ce repo quelques projets persos ou challenge machine learning.
+Ainsi que quelques screenshot illustratifs/dataviz de résultats obtenus.
+
+Pour l'instant les descriptions des projets et annotations dans le code sont très sommaires. C'est une amélioration à venir quand j'aurai le temps.
 
 ## contact : 
 
@@ -9,11 +11,11 @@ Ainsi que quelques notebook ou python de projets perso/challenges.
 - LinkedIn : https://www.linkedin.com/in/schapeland/
 - Malt : https://www.malt.fr/profile/sebastienchapeland
 
- ![ScreenShot](./pic/wordcloud.png?raw=true)
+![ScreenShot](./pic/wordcloud.png?raw=true)
 
- ![ScreenShot](./pic/Entreprises.png?raw=true)
+![ScreenShot](./pic/Entreprises.png?raw=true)
 
-## Quelques screen shot :
+## Quelques screenshot illustratifs:
 
 ### Social Network Automation - Boostez votre visibilité
 ![ScreenShot](./pic/0.png?raw=true)
@@ -21,7 +23,7 @@ Ainsi que quelques notebook ou python de projets perso/challenges.
 ### Carte dynamique des causes de décès en France (Altair)
 ![ScreenShot](./pic/1.png?raw=true)
 
-### Sunburst - Causes de décès par maladie en France (d3.js)
+### Sunburst - Causes de décès par maladie en France et par genre (H/F) (d3.js)
 ![ScreenShot](./pic/2.png?raw=true)
 
 ### Clustering - Métiers vs Compétences (sns)
@@ -29,9 +31,6 @@ Ainsi que quelques notebook ou python de projets perso/challenges.
 
 ### Econométrie - Forecast Time Seires et modèle AR (matplot)
 ![ScreenShot](./pic/4.png?raw=true)
-
-### Econométrie - MMM décomposition du CA en leviers marketing
-![ScreenShot](./pic/5.png?raw=true)
 
 ### Radviz cover trees (sns)
 ![ScreenShot](./pic/6.png?raw=true)
