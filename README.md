@@ -1,3 +1,5 @@
+![ScreenShot](./pic/wordcloud.png?raw=true)
+
 # Portfolio
 
 Vous trouverez dans ce repo quelques projets persos ou challenge machine learning.
@@ -10,8 +12,6 @@ Pour l'instant les descriptions des projets et annotations dans le code sont tr√
 - email : sebastien.chapeland@telecom-paris.fr
 - LinkedIn : https://www.linkedin.com/in/schapeland/
 - Malt : https://www.malt.fr/profile/sebastienchapeland
-
-![ScreenShot](./pic/wordcloud.png?raw=true)
 
 ![ScreenShot](./pic/Entreprises.png?raw=true)
 
