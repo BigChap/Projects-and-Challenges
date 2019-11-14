@@ -1,5 +1,5 @@
 ## Amazon:
-Scraping with Selenium and proxy rotation to pass through captchas
+Scraping with Selenium and proxy / user-agent rotation to pass through captchas
 
 ## Instagram:
 Social network automation with Selenium: posting, liking, follow/unfollow and scraping
