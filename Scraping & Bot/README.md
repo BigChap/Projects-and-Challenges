@@ -1,4 +1,4 @@
-## AMAZON:
+## Amazon:
 Scraping with Selenium and proxy rotation to pass through captchas
 
 ## Instagram:
