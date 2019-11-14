@@ -1,4 +1,4 @@
-"""I have to make docstring but I'm lazy"""
+"""Docstring in progress"""
 
 import os
 import csv
