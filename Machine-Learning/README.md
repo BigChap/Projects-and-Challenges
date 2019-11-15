@@ -13,7 +13,7 @@ Ingrédients: ensembling et stacking de modèles classiques (XGBoost, RandomFore
 ## Challenge Image Prediction:
 Classification binaire d'images selon des propriété "mystère".
 
-Ingrédient: Tensorflow, resNet50, fine tunning
+Ingrédients: Tensorflow, resNet50, fine tunning
 
 ## Challenge Fusion Algo:
 Ici, l’objectif est de construire une fusion d’algorithmes afin de construire la solution la mieux adaptée pour la comparaison d’une paire d’images.
