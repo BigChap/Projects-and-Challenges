@@ -1,5 +1,5 @@
 ## Challenge Prediction Embauche:
-Ce challenge vise à prédire si un cadidat sera embauché ou pas. C'est un bon résumé, tant sur l'opproche statistique que machine learning classique (pas de réseaux de neurones)
+Ce challenge vise à prédire si un cadidat sera embauché ou pas. C'est un bon résumé, tant sur l'opproche statistique que machine learning classique (pas de réseaux de neurones) de mon approche générale en tant que Data Scientist.
 De plus il y a un compte rendu détaillé qui facilite la lecture.
 
 Ingrédients : Tests de dépendances (ANOVA et test de Fisher, table de correlation, table de contingeance et test du chi2),
@@ -13,8 +13,7 @@ Ingrédients: ensembling et stacking de modèles classiques (XGBoost, RandomFore
 ## Challenge Image Prediction:
 Classification binaire d'images selon des propriété "mystère".
 
-Ingrédient: Tensorflow, resNet50, fine tunning
-
+Ingrédients: Tensorflow, resNet50, ensembling, grid search, drop-out
 ## Challenge Fusion Algo:
 Ici, l’objectif est de construire une fusion d’algorithmes afin de construire la solution la mieux adaptée pour la comparaison d’une paire d’images.
 
