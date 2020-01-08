@@ -15,7 +15,7 @@ Pour l'instant les descriptions des projets et annotations dans le code sont tr√
 
 ![ScreenShot](./pic/Entreprises.png?raw=true)
 
-## Quelques screenshot illustratifs:
+## Quelques screenshot illustratifs!:
 
 ### Social Network Automation - Boostez votre visibilit√©
 ![ScreenShot](./pic/0.png?raw=true)
