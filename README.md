@@ -1,6 +1,6 @@
 ![ScreenShot](./pic/wordcloud.png?raw=true)
 
-# Portfolio
+# Portfoli
 
 Vous trouverez dans ce repo quelques projets persos ou challenge machine learning.
 Ainsi que quelques screenshot illustratifs/dataviz de résultats obtenus.
