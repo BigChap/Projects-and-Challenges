@@ -23,9 +23,6 @@ Pour l'instant les descriptions des projets et annotations dans le code sont tr�
 ### Carte dynamique des causes de décès en France (Altair)
 ![ScreenShot](./pic/1.png?raw=true)
 
-### Sunburst - Causes de décès par maladie en France et par genre (H/F) (d3.js)
-![ScreenShot](./pic/2.png?raw=true)
-
 ### Clustering - Métiers vs Compétences (sns)
 ![ScreenShot](./pic/3.png?raw=true)
 
@@ -43,6 +40,3 @@ Pour l'instant les descriptions des projets et annotations dans le code sont tr�
 
 ### RL - Benchmark bandits multibras (matplot)
 ![ScreenShot](./pic/9.png?raw=true)
-
-### Violin plot - Visualisation des tendances (sns)
-![ScreenShot](./pic/10.png?raw=true)
