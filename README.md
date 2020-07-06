@@ -17,6 +17,9 @@ Pour l'instant les descriptions des projets et annotations dans le code sont tr√
 
 ## Quelques screenshot illustratifs:
 
+### Documents clustering based on visual embedding extracted from a finetuned CNN
+![ScreenShot](./pic/10.png?raw=true)
+
 ### Social Network Automation - Boostez votre visibilit√©
 ![ScreenShot](./pic/0.png?raw=true)
 
